@@ -1,5 +1,5 @@
 {
-  "name": "basic-check",
+  "name": "@amkul/basic-check",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/amkul99/basic-check/issues"
   },
-  "homepage": "https://github.com/amkul99/basic-check#readme"
+  "homepage": "https://github.com/amkul99/basic-check#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "basic-check": "^1.0.0"
+  },
+  "devDependencies": {}
 }
