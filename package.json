@@ -1,0 +1,19 @@
+{
+  "name": "basic-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amkul99/basic-check.git"
+  },
+  "author": "amkul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amkul99/basic-check/issues"
+  },
+  "homepage": "https://github.com/amkul99/basic-check#readme"
+}
